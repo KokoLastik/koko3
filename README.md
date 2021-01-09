@@ -1,5 +1,13 @@
-koko1:
+Preview
 
+koko1:https://github.com/KokoLastik/koko1
+
+koko2:https://github.com/KokoLastik/koko2
+
+
+
+
+.'
 
 we have all that
 
